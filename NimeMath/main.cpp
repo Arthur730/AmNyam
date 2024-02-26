@@ -1,0 +1,6 @@
+#inclube<iostem>
+
+int main()
+{
+
+}
