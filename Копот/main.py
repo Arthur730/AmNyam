@@ -1,4 +1,7 @@
 import json
+import hsrmath
+
+hsr = hsrmath.HSRmath()
 
 file_path = 'data/data.json'
 
